@@ -25,7 +25,7 @@ With Kill Bill, you get a SaaS-like subscription management and billing solution
 
 * You can get much more information on [killbill.io](http://killbill.io).
 * All of our technical documentation is available on [docs.killbill.io](http://docs.killbill.io) (sources in the [killbill/killbill-docs](https://github.com/killbill/killbill-docs) repository).
-* Eager to get started? Deploy your own instance of Kill Bill on AWS using our [one-click deployer](https://docs.killbill.io/latest/aws.html).
+* Eager to get started? Deploy your own instance of Kill Bill on AWS using our [one-click deployer](https://killbill.io/kill-bill-on-aws).
 * Head over to [cloud.killbill.io](https://cloud.killbill.io) for free hosted sandboxes, developer tools, and more.
 
 ### Open-Source and governance
